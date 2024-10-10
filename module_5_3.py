@@ -44,7 +44,6 @@ class House:
             return self
 
 
-
 h1 = House('ЖК Небо', 10)
 h2 = House('ЖК Горьковский', 20)
 print(h1)
